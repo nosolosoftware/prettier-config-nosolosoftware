@@ -3,7 +3,7 @@
 
 ## Installation
 
-`$ yarn add -D @nosolosoftware/prettier-config`
+`$ yarn add -D prettier-config-nosolosoftware`
 
 ## Usage
 
@@ -12,7 +12,7 @@ In order to use this configuration in our project, we should puts the following 
 
 
 ```
-  "prettier": "@nosolosoftware/prettier-config"
+  "prettier": "prettier-config-nosolosoftware"
 ```
 ## Contributing
 
@@ -22,7 +22,7 @@ Contributions are welcome, please follow
 
 ## Versioning
 
-**@nosolosoftware/prettier-config** uses [Semantic Versioning 2.0.0](http://semver.org)
+**prettier-config-nosolosoftware** uses [Semantic Versioning 2.0.0](http://semver.org)
 
 
 ## License
