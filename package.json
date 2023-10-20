@@ -2,5 +2,8 @@
   "name": "prettier-config-nosolosoftware",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prettier-plugin-sort-json": "^3.1.0"
+  }
 }
