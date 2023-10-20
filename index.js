@@ -5,5 +5,10 @@ module.exports = {
   tabWidth: 2,
   semi: false,
   arrowParens: 'avoid',
-  bracketSpacing: false
+  bracketSpacing: false,
+
+  plugins: ['prettier-plugin-sort-json'],
+
+  // Options for prettier-plugin-sort-json
+  jsonRecursiveSort: true,
 }
